@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+
+###### Requirements with Version Specifiers ######`
+selenium == 3.141.0
+openpyxl == 3.0.4
+requests == 2.24.0
+webdriver-manager == 3.5.3
